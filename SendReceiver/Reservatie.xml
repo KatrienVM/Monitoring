@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Reservatie>
+    <UUIDBezoeker>12</UUIDBezoeker>
+    <UUIDEvent>1</UUIDEvent>
+    <BetaalMethode>Cash</BetaalMethode>
+    <InkomBetaald>false</InkomBetaald>
+    <IsAanwezig>false</IsAanwezig>
+    <IsActif>true</IsActif>
+    <timestamp>23-04-2018 24:00:00</timestamp>
+</Reservatie>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Event>
+    <UUID>1</UUID>
+    <titel>test</titel>
+    <beschrijving>test</beschrijving>
+    <adres>test</adres>
+    <prijs>2</prijs>
+    <maxBezoekers>4</maxBezoekers>
+    <begin>12-04-2018 12:00:00</begin>
+    <einde>13-04-2018 12:00:00</einde>
+    <timestamp>10-04-2018 12:00:00</timestamp>
+</Event>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Exception>
+    <ErrorCode>1234</ErrorCode>
+    <ApplicationEvent>Create Bezoeker</ApplicationEvent>
+    <ErrorMessage>duplicate row entry</ErrorMessage>
+    <SourceID>1</SourceID>
+    <timestamp>CURRENT_TIMESTAMP</timestamp>
+</Exception>

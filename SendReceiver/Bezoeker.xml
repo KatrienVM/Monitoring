@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<Bezoeker>
+ 
+	<UUIDBezoeker>1</UUIDBezoeker>
+
+	<UUIDEvent>2</UUIDEvent>  
+	<isStudent>true</isStudent>
+  
+	<voornaam>Jan</voornaam>
+  
+	<achternaam>Wante</achternaam>
+  
+	<geboortedatum>12-12-1990 12:12:00</geboortedatum>
+  
+	<straat>Rozenlaan</straat>
+  
+	<huisnummer>3</huisnummer>
+  
+	<postcode>1000</postcode>
+  
+	<stad>Brussel</stad>
+  
+	<land>Belgie</land>
+  
+	<email>none@gmail.com</email>
+  
+	<telefoonnummer>023421123</telefoonnummer>
+  
+	<isActif>true</isActif>
+  
+	<IsAangemeld>true</IsAangemeld>
+  
+	<magAankopenDoen>true</magAankopenDoen>
+
+	<InkomBetaald>false</InkomBetaald>  
+	<timestamp>02-05-2018 13:00:00</timestamp>
+
+</Bezoeker>
